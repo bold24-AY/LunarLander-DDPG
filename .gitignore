@@ -11,7 +11,4 @@ environments/
 .ipynb_checkpoints/
 *.pth
 *.pt
-*.csv
-*.gif
-*.png
 .git/
